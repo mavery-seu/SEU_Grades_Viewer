@@ -1,2 +1,2 @@
 # SEU_Grades_Viewer
-Creates a 
+A simple javascript webpage a "bar graph" based on a .csv pulled from Canvas
